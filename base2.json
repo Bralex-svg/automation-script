@@ -1,0 +1,1134 @@
+{
+    "user_id": "288",
+    "document_summary": {
+        "progress": 100,
+        "status": "complete",
+        "data": {
+            "patient_info": { "first_name": "מיתר", "last_name": "שמואל" },
+            "physician_info": { "first_name": null, "last_name": null },
+            "medical_facility": {
+                "facility_name": "Tel-Aviv Sourasky Medical Center ICHILOV",
+                "location": null
+            },
+            "is_lab_report": true,
+            "test_date": "2023-06-16T15:11:00",
+            "lab_reports": [
+                {
+                    "name": "Glucose - blood",
+                    "result": 170,
+                    "range": "70 - 110",
+                    "units": "mg/dL",
+                    "test_type": null,
+                    "status": "H"
+                },
+                {
+                    "name": "Urea nitrogen (BUN) - blood",
+                    "result": 18,
+                    "range": "<5 - 25",
+                    "units": "mg/dL",
+                    "test_type": null,
+                    "status": ""
+                },
+                {
+                    "name": "Sodium - blood",
+                    "result": 135,
+                    "range": "135.0 - 146.0",
+                    "units": "mmol/L",
+                    "test_type": null,
+                    "status": ""
+                },
+                {
+                    "name": "Potassium - blood",
+                    "result": 5.48,
+                    "range": "3.50 - 5.30",
+                    "units": "mmol/L",
+                    "test_type": null,
+                    "status": "H"
+                },
+                {
+                    "name": "Chloride - blood",
+                    "result": 98,
+                    "range": "95 - 110",
+                    "units": "mmol/L",
+                    "test_type": null,
+                    "status": ""
+                },
+                {
+                    "name": "Creatinine",
+                    "result": 0.98,
+                    "range": "0.70 - 1.30",
+                    "units": "mg/dL",
+                    "test_type": null,
+                    "status": ""
+                },
+                {
+                    "name": "Uric acid - blood",
+                    "result": 4.3,
+                    "range": "2.50 - 8.00",
+                    "units": "mg/dL",
+                    "test_type": null,
+                    "status": ""
+                },
+                {
+                    "name": "CRP (WIDE RANGE)",
+                    "result": 5.97,
+                    "range": "<0.03 - 5.00",
+                    "units": "mg/L",
+                    "test_type": null,
+                    "status": "H"
+                },
+                {
+                    "name": "RBC",
+                    "result": 4,
+                    "range": "4.3 - 5.8",
+                    "units": "10e6/μL",
+                    "test_type": "ספירת דם",
+                    "status": "L"
+                },
+                {
+                    "name": "Hemoglobin",
+                    "result": 11.6,
+                    "range": "13.2 - 17.0",
+                    "units": "g/dL",
+                    "test_type": "ספירת דם",
+                    "status": "L"
+                },
+                {
+                    "name": "HCT",
+                    "result": 34,
+                    "range": "39 - 49",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": "L"
+                },
+                {
+                    "name": "MCV",
+                    "result": 86.3,
+                    "range": "80.0 - 96.0",
+                    "units": "fL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "MCH",
+                    "result": 29.2,
+                    "range": "26.0 - 34.0",
+                    "units": "pg",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "MCHC",
+                    "result": 33.8,
+                    "range": "31.0 - 37.0",
+                    "units": "g/dL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "RDW",
+                    "result": 17.1,
+                    "range": "0.0 - 15.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": "H"
+                },
+                {
+                    "name": "NRBC/100 WBC",
+                    "result": 0.1,
+                    "range": null,
+                    "units": null,
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "WBC",
+                    "result": 9.3,
+                    "range": "4.0 - 11.0",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Neutrophils %",
+                    "result": 50.6,
+                    "range": "40.0 - 75.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Neutrophils No.",
+                    "result": 4.7,
+                    "range": "1.4 - 6.0",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Lymphocytes %",
+                    "result": 34.6,
+                    "range": "20.0 - 40.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Lymphocytes No",
+                    "result": 3.2,
+                    "range": "1.2 - 3.0",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": "H"
+                },
+                {
+                    "name": "Mono%",
+                    "result": 8.2,
+                    "range": "2.0 - 13.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Monocytes No.",
+                    "result": 0.8,
+                    "range": "0.0 - 1.3",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Eosinophils %",
+                    "result": 3.8,
+                    "range": "0.0 - 6.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Eosinophils No.",
+                    "result": 0.4,
+                    "range": "0.0 - 0.4",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Basophils%",
+                    "result": 2.8,
+                    "range": "0.0 - 1.9",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": "H"
+                },
+                {
+                    "name": "Basophils No.",
+                    "result": 0.3,
+                    "range": "0.0 - 0.2",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": "H"
+                },
+                {
+                    "name": "Platelet, automated count",
+                    "result": 338,
+                    "range": "150 - 450",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Mean platelet volume",
+                    "result": 10.5,
+                    "range": "7.0 - 12.0",
+                    "units": "fL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                {
+                    "name": "Neutrophils/lymphocytes ratio - blood",
+                    "result": 1.5,
+                    "range": null,
+                    "units": null,
+                    "test_type": "ספירת דם",
+                    "status": ""
+                }
+            ]
+        }
+    },
+    "matched_physician": {
+        "progress": 100,
+        "status": "complete",
+        "data": {
+            "matched_id": null,
+            "matched_title": null,
+            "matched_name": null,
+            "matched_lastname": null,
+            "match_info": {
+                "match_score": "Unknown",
+                "reason": "Physician data is not found in uploaded document"
+            }
+        }
+    },
+    "matched_institution": {
+        "progress": 100,
+        "status": "complete",
+        "data": {
+            "value_name": "Tel-Aviv Sourasky Medical Center ICHILOV",
+            "matched_display_name": "Tel Aviv Sourasky Medical Center (Ichilov)",
+            "matched_id": 53,
+            "match_info": {
+                "match_score": "Exact",
+                "reason": "The names are effectively identical aside from formatting differences."
+            }
+        }
+    },
+    "lab_reports": {
+        "progress": 100,
+        "status": "complete",
+        "data": [
+            {
+                "test_params": {
+                    "name": "HCT",
+                    "result": 34,
+                    "range": "39 - 49",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": "L"
+                },
+                "match_data": {
+                    "id": 117,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Hematocrit (HCT)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'HCT' matches with 'Hematocrit (HCT)' despite differences in formatting."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The test type 'ספירת דם' matches with 'Complete Blood Count (CBC)' despite language and formatting differences."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 34, "unit": "%" },
+                    "conversion_details": null,
+                    "comment": "The unit '%' is the same as the reference unit."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Uric acid - blood",
+                    "result": 4.3,
+                    "range": "2.50 - 8.00",
+                    "units": "mg/dL",
+                    "test_type": null,
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 464,
+                    "test_type": "Metabolic Panel",
+                    "parameter": "Uric acid (UA) - blood",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'Uric acid - blood' matches conceptually with 'Uric acid (UA) - blood' despite a minor formatting difference."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The test type 'Metabolic Panel' matches conceptually even though the test type was not provided in the lab report."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 4.3, "unit": "mg/dL" },
+                    "conversion_details": null,
+                    "comment": "The units in the test_params are the same as the reference unit, so no conversion was necessary."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Hemoglobin",
+                    "result": 11.6,
+                    "range": "13.2 - 17.0",
+                    "units": "g/dL",
+                    "test_type": "ספירת דם",
+                    "status": "L"
+                },
+                "match_data": {
+                    "id": 118,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Hemoglobin (Hb)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'Hemoglobin' closely matches 'Hemoglobin (Hb)' with slight formatting differences."
+                },
+                "match_test_type_info": {
+                    "match_score": "Unknown",
+                    "reason": "The test type 'ספירת דם' was not found in the index."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 11.6, "unit": "g/dL" },
+                    "conversion_details": { "factor": null, "calculation": null },
+                    "comment": "No conversion needed as the units match with the reference."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Neutrophils %",
+                    "result": 50.6,
+                    "range": "40.0 - 75.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 128,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Neutrophils % (NEUT%)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter names 'Neutrophils %' and 'Neutrophils % (NEUT%)' are conceptually the same with minor formatting differences."
+                },
+                "match_test_type_info": {
+                    "match_score": "Unknown",
+                    "reason": "The test type 'ספירת דם' does not directly match 'Complete Blood Count (CBC)' but context suggests it fits within CBC."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 50.6, "unit": "%" },
+                    "conversion_details": null,
+                    "comment": "The units are the same as the reference unit, so no conversion is needed."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Eosinophils No.",
+                    "result": 0.4,
+                    "range": "0.0 - 0.4",
+                    "units": "10e3/μL",
+                    "test_type": "Complete Blood Count (CBC)",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 116,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Eosinophils No. (EOS#)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Parameter name 'Eosinophils No.' matches 'Eosinophils No. (EOS#)' conceptually. Test type matches with different language representation."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Test Type 'ספירת דם' in another language matches 'Complete Blood Count (CBC)'."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 0.4, "unit": "10e3/μL" },
+                    "conversion_details": null,
+                    "comment": "No conversion needed as the units are the same."
+                }
+            },
+            {
+                "name": "Creatinine",
+                "result": 0.98,
+                "range": "0.70 - 1.30",
+                "units": "mg/dL",
+                "test_type": null,
+                "status": ""
+            },
+            {
+                "test_params": {
+                    "name": "MCH",
+                    "result": 29.2,
+                    "range": "26.0 - 34.0",
+                    "units": "pg",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 121,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "MCH",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Parameter MCH from lab report exactly matches with context data."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "Test type ספירת דם (Blood Count) is an alternative name for Complete Blood Count (CBC)."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 29.2, "unit": "pg" },
+                    "conversion_details": null,
+                    "comment": "No conversion required as the units are the same."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Lymphocytes No",
+                    "result": 3.2,
+                    "range": "1.2 - 3.0",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": "H"
+                },
+                "match_data": {
+                    "id": 120,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Lymphocytes No. (LYM#)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Parameter name closely matches 'Lymphocytes No. (LYM#)' with slight naming deviation."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Test type 'ספירת דם' closely resembles 'Complete Blood Count (CBC)' which is an English translation."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 3.2, "unit": "10e3/μL" },
+                    "conversion_details": null,
+                    "comment": "Units match the reference; no conversion needed."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Chloride - blood",
+                    "result": 98,
+                    "range": "95 - 110",
+                    "units": "mmol/L",
+                    "test_type": null,
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 369,
+                    "test_type": "Metabolic Panel",
+                    "parameter": "Chloride (Cl) - blood",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Parameter 'Chloride - blood' matches with 'Chloride (Cl) - blood' with slight typographical difference."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Test type is not provided in the lab report but the matching parameter indicates 'Metabolic Panel'."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 98, "unit": "mmol/L" },
+                    "conversion_details": null,
+                    "comment": "Units are already in the reference unit."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Basophils%",
+                    "result": 2.8,
+                    "range": "0.0 - 1.9",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": "H"
+                },
+                "match_data": {
+                    "id": 113,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Basophils % (BASO%)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'Basophils%' in the lab report is a close match to the existing data 'Basophils % (BASO%)' with a slight formatting difference (space and parenthesis)."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "The test type 'ספירת דם' in the lab report is an alternative naming for 'Complete Blood Count (CBC)'."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 2.8, "unit": "%" },
+                    "conversion_details": { "factor": null, "calculation": null },
+                    "comment": "No conversion was needed as the units in the test_params are the same as the reference units."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "MCV",
+                    "result": 86.3,
+                    "range": "80.0 - 96.0",
+                    "units": "fL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 123,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "MCV",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'MCV' matches exactly and the test type 'Complete Blood Count (CBC)' is a direct translation from the original 'ספירת דם' in Hebrew."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The test type 'Complete Blood Count (CBC)' matches the original 'ספירת דם' as it is a direct translation."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 86.3, "unit": "fL" },
+                    "conversion_details": null,
+                    "comment": "The unit 'fL' is already the reference unit, no conversion was necessary."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Lymphocytes %",
+                    "result": 34.6,
+                    "range": "20.0 - 40.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 119,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Lymphocytes % (LYM%)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'Lymphocytes %' exactly matches 'Lymphocytes % (LYM%)' and the test type 'ספירת דם' translates to 'Complete Blood Count (CBC)'."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The test type 'ספירת דם' is translated to 'Complete Blood Count (CBC)', which matches the test type in the context document."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 34.6, "unit": "%" },
+                    "conversion_details": null,
+                    "comment": "The unit from the lab test results is already the reference unit."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "WBC",
+                    "result": 9.3,
+                    "range": "4.0 - 11.0",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 136,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "WBC",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'WBC' matches exactly even though the term for test type was translated."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "The test type 'ספירת דם' when translated matches 'Complete Blood Count (CBC)'."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 9.3, "unit": "10e3/μL" },
+                    "conversion_details": { "factor": null, "calculation": null },
+                    "comment": "No conversion was needed as the units match the reference units."
+                }
+            },
+            {
+                "name": "Platelet, automated count",
+                "result": 338,
+                "range": "150 - 450",
+                "units": "10e3/μL",
+                "test_type": "ספירת דם",
+                "status": ""
+            },
+            {
+                "test_params": {
+                    "name": "Neutrophils/lymphocytes ratio - blood",
+                    "result": 1.5,
+                    "range": null,
+                    "units": null,
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 127,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Neutrophil/lymphocte ratio (NLR)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Parameter names are conceptually matching with a slight typographical difference; test name and parameter name take precedence."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Test types are conceptually matching with different languages used;"
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 1.5, "unit": null },
+                    "conversion_details": null,
+                    "comment": "No conversion was necessary as units are either the same or non-specified."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Monocytes No.",
+                    "result": 0.8,
+                    "range": "0.0 - 1.3",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 126,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Monocytes No. (MONO#)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Parameter name 'Monocytes No.' matches with 'Monocytes No. (MONO#)' conceptually but has a slight typo or formatting difference."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "Test type 'ספירת דם' is an alternative name for 'Complete Blood Count (CBC)'."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "conversion_pass",
+                    "standardized": { "value": 0.8, "unit": "10e3/microL" },
+                    "conversion_details": { "factor": 1, "calculation": "0.8 * 1 = 0.8" },
+                    "comment": "Units are equivalent; no conversion was needed."
+                }
+            },
+            {
+                "name": "Mean platelet volume",
+                "result": 10.5,
+                "range": "7.0 - 12.0",
+                "units": "fL",
+                "test_type": "ספירת דם",
+                "status": ""
+            },
+            {
+                "test_params": {
+                    "name": "Urea nitrogen (BUN) - blood",
+                    "result": 18,
+                    "range": "<5 - 25",
+                    "units": "mg/dL",
+                    "test_type": "Metabolic Panel",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 463,
+                    "test_type": "Metabolic Panel",
+                    "parameter": "Urea nitrogen (BUN) - blood",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The field is identical to the index with exact same letters."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The test type is exactly the same as in the database."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 18, "unit": "mg/dL" },
+                    "conversion_details": { "factor": null, "calculation": null },
+                    "comment": "The unit is already in the reference unit (mg/dL)."
+                }
+            },
+            {
+                "name": "RBC",
+                "result": 4,
+                "range": "4.3 - 5.8",
+                "units": "10e6/μL",
+                "test_type": "ספירת דם",
+                "status": "L"
+            },
+            {
+                "test_params": {
+                    "name": "Eosinophils %",
+                    "result": 3.8,
+                    "range": "0.0 - 6.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 115,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Eosinophils % (EOS%)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Lab report parameter name matches with slight formatting difference."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Test type matches exactly after translation from Hebrew."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 3.8, "unit": "%" },
+                    "conversion_details": null,
+                    "comment": "Units are already in the reference unit."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "MCHC",
+                    "result": 33.8,
+                    "range": "31.0 - 37.0",
+                    "units": "g/dL",
+                    "test_type": "ספירת דם",
+                    "status": "Available"
+                },
+                "match_data": {
+                    "id": 122,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "MCHC",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name 'MCHC' is an exact match. The test_type differs but is secondary."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "The test type 'ספירת דם' is a Hebrew variant of 'Complete Blood Count (CBC)'."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 33.8, "unit": "g/dL" },
+                    "conversion_details": { "factor": null, "calculation": null },
+                    "comment": "No conversion was necessary as the units are already in the reference standard."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Potassium - blood",
+                    "result": 5.48,
+                    "range": "3.50 - 5.30",
+                    "units": "mmol/L",
+                    "test_type": null,
+                    "status": "H"
+                },
+                "match_data": {
+                    "id": 443,
+                    "test_type": "Metabolic Panel",
+                    "parameter": "Potassium (K) - blood",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Alternative",
+                    "reason": "The parameter matches conceptually due to alternative naming (K for Potassium)."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "The test type is valid, but not the main matching factor."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 5.48, "unit": "mmol/L" },
+                    "conversion_details": null,
+                    "comment": "No conversion needed as the units are the same."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Neutrophils No.",
+                    "result": 4.7,
+                    "range": "1.4 - 6.0",
+                    "units": "10e3/μL",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 129,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Neutrophils No. (NEUT#)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter 'Neutrophils No.' in the lab report closely matches the 'Neutrophils No. (NEUT#)' in the context data with potential formatting differences."
+                },
+                "match_test_type_info": {
+                    "match_score": "Unknown",
+                    "reason": "The test type 'ספירת דם' in the lab report is in Hebrew and does not exactly match the 'Complete Blood Count (CBC)' in the context data. However, the key matching factor is the parameter name."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 4.7, "unit": "10e3/μL" },
+                    "conversion_details": { "factor": null, "calculation": null },
+                    "comment": "Unit conversion was not required as the units are already matching the reference unit."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "NRBC/100 WBC",
+                    "result": 0.1,
+                    "range": null,
+                    "units": "/100WBC",
+                    "test_type": "Complete Blood Count (CBC)",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 130,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Nucleated RBC (NRBC)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter 'NRBC/100 WBC' matches 'Nucleated RBC (NRBC)' with minor formatting differences."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The test type 'ספירת דם' closely matches 'Complete Blood Count (CBC)' after translation."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 0.1, "unit": "/100WBC" },
+                    "conversion_details": null,
+                    "comment": "No conversion was needed as the units are already in the reference unit."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Mono%",
+                    "result": 8.2,
+                    "range": "2.0 - 13.0",
+                    "units": "%",
+                    "test_type": "ספירת דם",
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 125,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Monocytes % (MONO%)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Parameter name 'Mono%' is a shorthand or abbreviated form for 'Monocytes % (MONO%)'."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "Test type 'ספירת דם' (Blood Count) is conceptually the same as 'Complete Blood Count (CBC)'."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 8.2, "unit": "%" },
+                    "conversion_details": null,
+                    "comment": "Units are already the same as the reference unit; no conversion necessary."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Glucose - blood",
+                    "result": 170,
+                    "range": "70 - 110",
+                    "units": "mg/dL",
+                    "test_type": null,
+                    "status": "H"
+                },
+                "match_data": {
+                    "id": 397,
+                    "test_type": "Metabolic Panel",
+                    "parameter": "Glucose (Glu) - blood",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Names match conceptually but have minor formatting differences."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Test type matches exactly in the context; `Metabolic Panel` from matched Document."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 170, "unit": "mg/dL" },
+                    "conversion_details": { "factor": null, "calculation": null },
+                    "comment": "No conversion needed as both units match."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Sodium - blood",
+                    "result": 135,
+                    "range": "135.0 - 146.0",
+                    "units": "mmol/L",
+                    "test_type": null,
+                    "status": ""
+                },
+                "match_data": {
+                    "id": 455,
+                    "test_type": "Metabolic Panel",
+                    "parameter": "Sodium (Na) - blood",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter 'Sodium - blood' from the lab report closely matches 'Sodium (Na) - blood' with slight notation difference."
+                },
+                "match_test_type_info": {
+                    "match_score": "Unknown",
+                    "reason": "Test type from the report is unspecified, and thus cannot be directly matched against the known test type."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 135, "unit": "mmol/L" },
+                    "conversion_details": null,
+                    "comment": "The units are already in the standard reference unit (mmol/L), so no conversion is necessary."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "Basophils No.",
+                    "result": 0.3,
+                    "range": "0.0 - 0.2",
+                    "units": "10e3/µL",
+                    "test_type": "ספירת דם",
+                    "status": "H"
+                },
+                "match_data": {
+                    "id": 114,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "Basophils No. (BASO#)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The lab report parameter 'Basophils No.' and the document parameter 'Basophils No. (BASO#)' match conceptually with different naming conventions."
+                },
+                "match_test_type_info": {
+                    "match_score": "Alternative",
+                    "reason": "The lab report test type 'ספירת דם' and the document test type 'Complete Blood Count (CBC)' are different representations of the same test type (Hebrew vs English)"
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 0.3, "unit": "10e3/μL" },
+                    "conversion_details": null,
+                    "comment": "Units are already matching with the reference unit, no conversion required."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "CRP (WIDE RANGE)",
+                    "result": 5.97,
+                    "range": "<0.03 - 5.00",
+                    "units": "mg/L",
+                    "test_type": null,
+                    "status": "H"
+                },
+                "match_data": {
+                    "id": 378,
+                    "test_type": "Metabolic Panel",
+                    "parameter": "CRP Wide Range (WCRP)",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter name matches conceptually but has slight formatting differences."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The test type matches conceptually but has slight formatting differences."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 5.97, "unit": "mg/L" },
+                    "conversion_details": null,
+                    "comment": "The units are the same; no conversion necessary."
+                }
+            },
+            {
+                "test_params": {
+                    "name": "RDW",
+                    "result": 17.1,
+                    "range": "0.0 - 15.0",
+                    "units": "%",
+                    "test_type": "Complete Blood Count (CBC)",
+                    "status": "H"
+                },
+                "match_data": {
+                    "id": 133,
+                    "test_type": "Complete Blood Count (CBC)",
+                    "parameter": "RDW",
+                    "sample_type": "Blood"
+                },
+                "match_parameter_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "The parameter RDW matches exactly including units. Test type converted to match context."
+                },
+                "match_test_type_info": {
+                    "match_score": "Similar: Typo",
+                    "reason": "Test type ספירת דם matches conceptually to Complete Blood Count (CBC)."
+                },
+                "parameter_value_type": { "value_type": "numeric_value" },
+                "unit_conversion": {
+                    "status": "no_conversion",
+                    "standardized": { "value": 17.1, "unit": "%" },
+                    "conversion_details": null,
+                    "comment": "The unit in test_params is the same as the reference unit."
+                }
+            }
+        ]
+    },
+    "analysis": {
+        "stage": "lab_report_matching",
+        "message": "Successfully matched all lab reports"
+    }
+  }
