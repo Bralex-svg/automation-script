@@ -283,6 +283,12 @@ def main():
         logger.error("Process aborted due to error fetching input JSON from API.")
         return 1
 
+    # Rearrange the lab_reports based on the index of test_params
+    lab_reports = input_data.get("lab_reports", {}).get("data", [])
+    if isinstance(lab_reports, list):
+        input_data["lab_reports"]["data"] = sorted(lab_reports, key=lambda x: x["test_params"]["index"])
+        logger.info("Lab reports have been rearranged based on the index of test_params.")
+
     logger.info(f"\nComparing '{BASE_JSON_FILE}' with API response...")
     matched_fields, unmatched_fields = compare_json(base, input_data)
 
