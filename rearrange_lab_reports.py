@@ -14,7 +14,7 @@ lab_reports_sorted = sorted(lab_reports, key=lambda x: x["test_params"]["index"]
 data["lab_reports"]["data"] = lab_reports_sorted
 
 # Save the updated JSON data back to the file
-with open("base_ordered.json", "w") as file:
-    json.dump(data, file, indent=4)
+with open("base_lower_case.json", "w") as file:
+    json.dump(json.loads(json.dumps(data).lower()), file, indent=4)
 
 print("Lab reports have been rearranged based on the index of test_params.")

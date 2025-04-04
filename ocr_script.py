@@ -147,7 +147,7 @@ def fetch_json_from_api(pdf_path, process_endpoint, status_endpoint, headers=Non
                         logger.info(f"Processing marked as complete after {elapsed_minutes:.1f} minutes.")
                         if has_valid_data:
                             logger.info(f"Valid data found in response.")
-                            return status_data
+                            return json.loads(json.dumps(status_data).lower())
                         else:
                             logger.error(f"OCR completed but no valid data was extracted. Response: {json.dumps(status_data, indent=2)[:1000]}...")
                             raise ValueError("OCR completed but no valid data")
@@ -247,7 +247,7 @@ def write_results_to_file(matched_fields, unmatched_fields, filename):
         f.write(f"Unmatched fields: {len(unmatched_fields)} ({(len(unmatched_fields) / total * 100) if total > 0 else 0:.1f}%)\n")
 
 def main():
-    BASE_JSON_FILE = "base.json"
+    BASE_JSON_FILE = "base_lower_case.json"
     PDF_FILE = "input.pdf"
     PROCESS_ENDPOINT = "http://ec2-3-75-220-58.eu-central-1.compute.amazonaws.com/ocr/process"
     STATUS_ENDPOINT = "http://ec2-3-75-220-58.eu-central-1.compute.amazonaws.com/ocr/ocr/status"
